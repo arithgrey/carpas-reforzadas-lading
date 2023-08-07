@@ -699,8 +699,8 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="col-12 content">
-                    <a class="mbr-text mbr-fonts-style display-5 border p-2"  href="https://enidservices.com/carpas-reforzadas">
-                        Checa nuestro catálogo!
+                    <a class="mbr-text mbr-fonts-style display-5 border p-2"  href="https://enidservice.com">
+                        ¿Necesitas una página web?
                     </a>
                 </div>
             </div>
@@ -732,8 +732,6 @@
     <script src="assets/embla/embla.min.js"></script>
     <script src="assets/embla/script.js"></script>
     
-    
-
 
 
 </body>
