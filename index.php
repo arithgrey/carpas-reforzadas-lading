@@ -8,7 +8,7 @@
 
     <meta property="og:image" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-    <meta name="description" content="¡Llenaremos de magia y color tu evento! Decoraciones temáticas con globos para todo tipo de eventos, Instalamos y pagas al terminar el decorado!">
+    <meta name="description" content="Venta de carpas Reforzadas a domicilio pago contra entrega en CDMX y envíos a todo México">
 
 
     <title>Venta de carpas Reforzadas a domicilio pago contra entrega en CDMX y envíos a todo México</title>
