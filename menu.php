@@ -2,7 +2,7 @@
     <nav class="navbar navbar-dropdown navbar-expand-lg">
         <div class="menu_box container">
             <div class="navbar-brand d-flex d-lg-none">
-                <span class="navbar-caption-wrap"><a class="navbar-caption display-7" href="index.php">Globolandia</a></span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption display-7" href="index.php">Carpas y Estructuras Comerciales</a></span>
             </div>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <div class="hamburger">
@@ -15,11 +15,12 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <div class="navbar-brand d-none d-lg-flex">
 
-                    <span class="navbar-caption-wrap"><a class="navbar-caption display-5" href="index.php">Globolandia</a></span>
+                    <span class="navbar-caption-wrap"><a class="navbar-caption display-5" href="index.php">Carpas y Estructuras Comerciales</a></span>
                 </div>
                 <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true">
                     
-                    <li class="nav-item"><a class="nav-link link display-4" href="#features9sss-3">(55) 7612- 7281 </a></li>
+                    <li class="nav-item"><a class="nav-link link display-4" href="https://api.whatsapp.com/send?phone=+525552967027&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20cotizar%20mi%20carpa">(55) 7612- 7281 </a></li>
+                    <!--
                     <li class="nav-item">
                         <a class="nav-link dropdown-toggle display-4" href="#" id="tematicasDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Temáticas populares
@@ -32,16 +33,19 @@
                             <li><a class="dropdown-item" href="https://enidservices.com/decoraciones-tematicas-globolandia/">Todos los modelos!</a></li>
                         </ul>
                     </li>
+-->
+                    
                     <li class="nav-item">
                         <a class="nav-link dropdown-toggle display-4" href="#" id="tematicasDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Servicios
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="tematicasDropdown">
-                            <li><a class="dropdown-item" href="index.php">Decoraciones temáticas</a></li>
-                            <li><a class="dropdown-item" href="cervezas.php">Cervezas a domicilio pago contra entrega</a></li>
+                            <li><a class="dropdown-item" href="index.php#image1-h">Carpas Reforzadas</a></li>
+                            <!--<li><a class="dropdown-item" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/search/?q2=0&q=kitsmasvendidos&order=2">Equipo para deportivo</a></li>-->
                             
                         </ul>
                     </li>
+
 
                 </ul>
                 <div class="offcanvas_box">
@@ -58,7 +62,7 @@
                         <div class="offcanvas-body">
 
                             <div class="offcanvas_contact">
-                                <h3 class="mbr-section-subtitle mbr-fonts-style display-5"><strong>Globolandia.</strong></h3>
+                                <h3 class="mbr-section-subtitle mbr-fonts-style display-5"><strong>Carpas y Estructuras Comerciales</strong></h3>
                             </div>
                             <div class="icons-menu">
                                 <a class="iconfont-wrapper" href="https://www.facebook.com/profile.php?id=100093599380757" target="_blank">
@@ -75,11 +79,9 @@
                             </div>
                             <p class="text_widget mb-0 mbr-fonts-style display-4">
                                 <br><br>
-                                <a class="text-secondary">(55) 7612-7281</a>
+                                <a class="text-secondary">(55) 5296 - 7027</a>
                                 <br><br>
-
                             </p>
-
                         </div>
                     </div>
                 </div>

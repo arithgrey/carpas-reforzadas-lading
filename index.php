@@ -11,7 +11,7 @@
     <meta name="description" content="¡Llenaremos de magia y color tu evento! Decoraciones temáticas con globos para todo tipo de eventos, Instalamos y pagas al terminar el decorado!">
 
 
-    <title>¡Llenaremos de magia y color tu evento! Decoraciones temáticas con globos y estructuras para todo tipo de eventos CDMX </title>
+    <title>Venta de carpas Reforzadas a domicilio pago contra entrega en CDMX y envíos a todo México</title>
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
@@ -41,7 +41,7 @@
     <section data-bs-version="5.1" class="header2 cid-t3PhvukuJW mbr-fullscreen mbr-parallax-background" id="header2-1">
 
 
-        <div class="mbr-overlay" style="opacity: 0.2; background-color: rgb(0, 0, 0);">
+        <div class="mbr-overlay" style="opacity: 0.1; background-color: rgb(0, 0, 0);">
         </div>
 
         <div class="container-fluid">
@@ -52,7 +52,7 @@
                 <div class="col-lg-8 col-md-12 text">
                     <div class="text-wrapper">
                         <h1 class="mbr-section-title mbr-fonts-style display-1 bg_decoraciones">
-                            <strong class="">Decoraciones temáticas con globos y estructuras para todo tipo de eventos CDMX</strong>
+                            Carpas reforzadas a domicilio, pago contra entrega CDMX y envíos a todo México
                         </h1>
                     </div>
                 </div>
@@ -73,28 +73,29 @@
             <div class="row">
                 <div class="col-12 col-lg-6 col-md-12 image-wrap-1">
                     <div class="image-wrapper">
-                        <img src="imgs/background3.jpg" alt="">
+                        <img src="imgs/carpas/carpa_0.jpeg" alt="">
                     </div>
                 </div>
                 <div class="col-12 col-lg-6 image-wrap-2">
                     <div class="row">
                         <div class="col-md-6 image-wrap">
                             <div class="image-wrapper">
-                                <img src="imgs/decoracion_globos_2.jpg" alt="">
+                                <img src="imgs/carpas/carpa_1.jpeg" alt="">
                             </div>
                         </div>
                         <div class="col-md-6 image-wrap">
                             <div class="image-wrapper">
-                                <img src="imgs/decoracion_globos_3.png" alt="">
+                                <img src="imgs/carpas/carpa_2.jpeg" alt="">
                             </div>
                         </div>
                         <div class="col-md-12 image-wrap">
                             <div class="image-wrapper">
-                                <img src="imgs/decoracion_globos.jpg" alt="">
+                                <img src="imgs/carpas/carpa_4.jpeg" alt="">
                             </div>
                         </div>
                     </div>
                 </div>
+                
             </div>
         </div>
     </section>
@@ -106,25 +107,23 @@
         <div class="position-relative text-center">
             <div class="col-12">
 
-                <h3 class="mbr-section-subtitle mbr-fonts-style display-3 text-uppercase color_accion d-md-block d-none">
-                    <strong>Dícelo con globos</strong>
-                </h3>
-
-                <h3 class="mbr-section-subtitle mbr-fonts-style display-7 text-uppercase color_accion d-md-none">
-                    <strong>Dícelo con globos</strong>
-                </h3>
-                <h2 class="mbr-section-title mbr-fonts-style display-3 text-uppercase">
-                    <strong>Tienes la idea, lo hacemos posible!</strong>
+                <h2 class="mbr-section-subtitle mbr-fonts-style display-3 text-uppercase color_accion d-md-block d-none">
+                    <strong>Pasa tu negocio al siguiente nivel ya!</strong>
                 </h2>
+
+                <h2 class="mbr-section-subtitle mbr-fonts-style display-7 text-uppercase color_accion d-md-none">
+                    <strong>Pasa tu negocio al siguiente nivel ya!</strong>
+                </h2>
+                
                 <p class="mbr-text mbr-fonts-style display-7">
-                    <a class="btn btn-primary btn-lg btn-outline-dark" target="_blank" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20agendar%20mi%20evento">
-                        (55) 7612-7281
+                    <a class="btn btn-primary btn-lg btn-outline-dark"  href="https://api.whatsapp.com/send?phone=+525552967027&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20cotizar%20mi%20carpa">
+                        (55) 5296 - 7027
                     </a>
                 </p>
-                <a class="color-black" target="_blank" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20agendar%20mi%20evento">
+                <a class="color_orange"  href="https://api.whatsapp.com/send?phone=+525552967027&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20cotizar%20mi%20carpa">
                     <span class="fa fa-whatsapp fa-2x">
                     </span>
-                    Agenda ya!
+                    Checa tu modelo!
                 </a>
             </div>
             <div class="embla" data-skip-snaps="true" data-align="center" data-contain-scroll="trimSnaps" data-loop="true" data-auto-play-interval="5" data-draggable="true">
@@ -134,11 +133,10 @@
                             <div class="card-wrap">
                                 <div class="item-wrapper position-relative">
                                     <div class="image-wrap">
-                                        <img src="imgs/decoracion_cliente_benito_j2.jpg" alt="">
+                                        <img src="imgs/carpas/carpa_5.jpeg" alt="">
                                         <div class="text-center mt-4">
-                                            <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1683">
-                                                <div class="text-center mt-4">
-                                                    <h3 class="strong precio black">$2999</h3>
+                                            <a class="" href="https://enidservices.com/carpas-reforzadas">
+                                                <div class="text-center mt-4">                                                    
                                                     <span class="mas_detalles_b">Más detalles</span>
                                                 </div>
                                             </a>
@@ -153,11 +151,10 @@
                             <div class="card-wrap">
                                 <div class="item-wrapper position-relative">
                                     <div class="image-wrap">
-                                        <img src="imgs/test_2.jpeg" alt="">
+                                        <img src="imgs/carpas/carpa_7.jpeg" alt="">
                                         <div class="text-center mt-4">
-                                            <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1684">
-                                                <div class="text-center mt-4">
-                                                    <h3 class="strong precio black">$2899</h3>
+                                            <a class="" href="https://enidservices.com/carpas-reforzadas">
+                                                <div class="text-center mt-4">                                                    
                                                     <span class="mas_detalles_b">Más detalles</span>
                                                 </div>
                                             </a>
@@ -170,12 +167,12 @@
                             <div class="card-wrap">
                                 <div class="item-wrapper position-relative">
                                     <div class="image-wrap">
-                                        <img src="imgs/test_1.jpeg" alt="">
+                                        <img src="imgs/carpas/carpa_8.jpeg" alt="">
 
                                         <div class="text-center mt-4">
-                                            <a class="" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1786">
+                                            <a class="" href="https://enidservices.com/carpas-reforzadas">
                                                 <div class="text-center mt-4">
-                                                    <h3 class="strong precio black">$2999</h3>
+                                                    
                                                     <span class="mas_detalles_b">Más detalles</span>
                                                 </div>
                                             </a>
@@ -201,11 +198,11 @@
     <section data-bs-version="5.1" class="features7 cid-t3PhwUgKcN galeria_seccion" id="features7-2">
         <div class="container">
             <div class="features-header">
-                <h3 class="mbr-section-subtitle mbr-fonts-style ">
-                    <strong>Ya sea una boda, un cumpleaños o cualquier festejo</strong>
+                <h3 class="mbr-section-subtitle mbr-fonts-style color_black text-uppercase">
+                    <strong>Si estás en CDMX te las llevamos y pagas a tu entrega</strong>
                 </h3>
-                <h2 class="mbr-section-title mbr-fonts-style display-2 color_white">
-                    <strong>¡Llenaremos de magia y color tu evento!</strong>
+                <h2 class="mbr-section-title mbr-fonts-style display-2 color_tm">
+                    <strong>¡También contamos con envío a todo México!</strong>
                 </h2>
             </div>
             <div class="row">
@@ -213,10 +210,9 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/coracion_coyoacan.jpg" alt="">
-                                <div class="text-center mt-3">
-                                    <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1685">
-                                        <h3 class="strong precio">$3800</h3>
+                                <img src="imgs/carpas/carpa_9.jpeg" alt="">
+                                <div class="text-center mt-3 mas_detalles_c">
+                                    <a class="text-center mt-3 color_white fbold " href="https://enidservices.com/carpas-reforzadas">                                        
                                         <span>Más detalles</span>
                                     </a>
                                 </div>
@@ -228,10 +224,9 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/coracion_coyoacan_2.jpg" alt="">
-                                <div class="text-center mt-3">
-                                    <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1686">
-                                        <h3 class="strong precio">$5399</h3>
+                                <img src="imgs/carpas/carpa_10.jpeg" alt="">
+                                <div class="text-center mt-3 mas_detalles_c">
+                                    <a class="text-center mt-3 color_white fbold " href="https://enidservices.com/carpas-reforzadas">                                        
                                         <span>Más detalles</span>
                                     </a>
                                 </div>
@@ -243,10 +238,9 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/coracion_coyoacan_3.jpg" alt="">
-                                <div class="text-center mt-3">
-                                    <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1687">
-                                        <h3 class="strong precio">$6899</h3>
+                                <img src="imgs/carpas/carpa_11.jpeg" alt="">
+                                <div class="text-center mt-3 mas_detalles_c">
+                                    <a class="text-center mt-3 color_white fbold " href="https://enidservices.com/carpas-reforzadas">                                        
                                         <span>Más detalles</span>
                                     </a>
                                 </div>
@@ -259,13 +253,15 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/coracion_iztapalapa.jpg" alt="">
-                                <div class="text-center mt-3">
-                                    <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1688">
-                                        <h3 class="strong precio">$4399</h3>
+                            <div class="">
+                                <img src="imgs/carpas/carpa_12.jpeg" alt="">
+                                <div class="text-center mt-3 mas_detalles_c">
+                                    <a class="text-center mt-3 color_white fbold " href="https://enidservices.com/carpas-reforzadas">                                        
                                         <span>Más detalles</span>
                                     </a>
                                 </div>
+                            </div>
+
                             </div>
 
                         </div>
@@ -275,13 +271,13 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/coracion_iztapalapa_2.jpg" alt="">
-                                <div class="text-center mt-2">
-                                    <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1689">
-                                        <h3 class="strong precio">$6799</h3>
+                                <img src="imgs/carpas/carpa_13.jpeg" alt="">
+                                <div class="text-center mt-3 mas_detalles_c">
+                                    <a class="text-center mt-3 color_white fbold " href="https://enidservices.com/carpas-reforzadas">                                        
                                         <span>Más detalles</span>
                                     </a>
                                 </div>
+                            
                             </div>
 
                         </div>
@@ -291,13 +287,13 @@
                     <div class="item-wrapper">
                         <div class="card-wrapper">
                             <div class="">
-                                <img src="imgs/coracion_iztapalapa_3.jpg" alt="">
-                                <div class="text-center mt-2">
-                                    <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1690">
-                                        <h3 class="strong precio">$6899</h3>
+                                <img src="imgs/carpas/carpa_14.jpeg" alt="">
+                                <div class="text-center mt-3 mas_detalles_c">
+                                    <a class="text-center mt-3 color_white fbold " href="https://enidservices.com/carpas-reforzadas">                                        
                                         <span>Más detalles</span>
                                     </a>
                                 </div>
+                            
                             </div>
 
                         </div>
@@ -305,8 +301,8 @@
                 </div>
             </div>
             <div class="mbr-section-btn">
-                <a class="btn btn-primary display-4" target="_blank" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20agendar%20mi%20evento">
-                    Checa disponibilidad!
+                <a class="btn btn-primary display-4"  href="https://enidservices.com/carpas-reforzadas">
+                    Checa precios!
                 </a>
             </div>
         </div>
@@ -317,46 +313,383 @@
         <div class="container">
             <div class="features-header">
                 <h3 class="mbr-section-subtitle mbr-fonts-style display-2 color_bbb">
-                    <strong>Instalamos y pagas al terminar el decorado!</strong>
+                    <strong>Enviamos a toda la república!</strong>
                 </h3>
             </div>
             <div class="row">
                 <div class="col-12 col-lg-4 item features-image">
                     <div class="card item-wrapper">
-                        <img src="imgs/coracion_neza.jpg" alt="">
-
+                        <img src="imgs/carpas/carpa_16.jpeg" alt="">
                     </div>
                     <div class="text-center mt-2">
-                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1777&q2=1">
-                            <h3 class="strong precio_2">$3699</h3>
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">                            
                             <span class="mas_detalles">Más detalles</span>
                         </a>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image">
                     <div class="card item-wrapper">
-                        <img src="imgs/coracion_neza_2.jpg" alt="">
+                    <img src="imgs/carpas/carpa_17.jpeg" alt="">
                     </div>
                     <div class="text-center mt-2">
-                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1692">
-                            <h3 class="strong precio_2">$2899</h3>
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
                             <span class="mas_detalles">Más detalles</span>
                         </a>
                     </div>
                 </div>
                 <div class="col-12 col-lg-4 item features-image">
                     <div class="card item-wrapper">
-                        <img src="imgs/coracion_neza_3.jpg" alt="">
+                    <img src="imgs/carpas/carpa_18.jpeg" alt="">
                     </div>
                     <div class="text-center mt-2">
 
-                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1693">
-                            <h3 class="strong precio_2">$2899</h3>
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
                             <span class="mas_detalles">Más detalles</span>
                         </a>
 
                     </div>
                 </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                        <img src="imgs/carpas/carpa_19.jpeg" alt="">
+                    </div>
+                    <div class="text-center mt-2">
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_20.jpeg" alt="">
+                    </div>
+                    <div class="text-center mt-2">
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_21.jpeg" alt="">
+                    </div>
+                    <div class="text-center mt-2">
+
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                        <img src="imgs/carpas/carpa_22.jpeg" alt="">
+                    </div>
+                    <div class="text-center mt-2">
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_23.jpeg" alt="">
+                    </div>
+                    <div class="text-center mt-2">
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_24.jpeg" alt="">
+                    </div>
+                    <div class="text-center mt-2">
+
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                        <img src="imgs/carpas/carpa_25.jpeg" alt="">
+                    </div>
+                    <div class="text-center mt-2">
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_26.jpeg" alt="">
+                    </div>
+                    <div class="text-center mt-2">
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_27.jpeg" alt="">
+                    </div>
+                    <div class="text-center mt-2">
+
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_28.jpeg" alt="">
+                    </div>
+                    <div class="text-center mt-2">
+
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_29.jpeg" alt="">
+                    </div>
+                    <div class="text-center mt-2">
+
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_30.jpeg" alt="">
+                    </div>
+                    <div class="text-center mt-2">
+
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_31.jpeg" alt="">
+                    </div>
+                    <div class="text-center mt-2">
+
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_32.jpeg" alt="">s
+                    </div>
+                    <div class="text-center mt-2">
+
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_33.jpeg" alt="">s
+                    </div>
+                    <div class="text-center mt-2">
+
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_34.jpeg" alt="">s
+                    </div>
+                    <div class="text-center mt-2">
+
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_35.jpeg" alt="">s
+                    </div>
+                    <div class="text-center mt-2">
+
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_36.jpeg" alt="">s
+                    </div>
+                    <div class="text-center mt-2">
+
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_37.jpeg" alt="">s
+                    </div>
+                    <div class="text-center mt-2">
+
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_38.jpeg" alt="">s
+                    </div>
+                    <div class="text-center mt-2">
+
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_39.jpeg" alt="">s
+                    </div>
+                    <div class="text-center mt-2">
+
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_40.jpeg" alt="">s
+                    </div>
+                    <div class="text-center mt-2">
+
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_41.jpeg" alt="">s
+                    </div>
+                    <div class="text-center mt-2">
+
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_42.jpeg" alt="">s
+                    </div>
+                    <div class="text-center mt-2">
+
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_43.jpeg" alt="">s
+                    </div>
+                    <div class="text-center mt-2">
+
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_44.jpeg" alt="">s
+                    </div>
+                    <div class="text-center mt-2">
+
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 item features-image">
+                    <div class="card item-wrapper">
+                    <img src="imgs/carpas/carpa_45.jpeg" alt="">s
+                    </div>
+                    <div class="text-center mt-2">
+
+                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                            
+                            <span class="mas_detalles">Más detalles</span>
+                        </a>
+
+                    </div>
+                </div>
+
+
             </div>
         </div>
     </section>
@@ -366,8 +699,8 @@
         <div class="container-fluid">
             <div class="row justify-content-center">
                 <div class="col-12 content">
-                    <a class="mbr-text mbr-fonts-style display-5 border p-2" target="_blank" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20agendar%20mi%20evento">
-                        Anticipa la fecha de tu evento ya!
+                    <a class="mbr-text mbr-fonts-style display-5 border p-2"  href="https://enidservices.com/carpas-reforzadas">
+                        Checa nuestro catálogo!
                     </a>
                 </div>
             </div>
@@ -376,268 +709,13 @@
 
 
 
-
-    <section data-bs-version="5.1" class="features9 cid-t3PhypPtV2 quince_a" id="features9s-3">
-
-        <div class="container" id="babyshower">
-            <div class="features-header">
-                <h3 class="mbr-section-subtitle mbr-fonts-style display-2 color_white">
-                    <strong>Cubrimos todo CDMX y la zona metropolitana!</strong>
-                </h3>
-
-            </div>
-            <div class="row">
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/metalicos/f576becbe7933b73714e9ac07f4dda67.jpg" alt="">
-                    </div>
-                    <div class="text-center mt-2">
-                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1694">
-                            <h3 class="strong precio_3">$4699</h3>
-                            <span class="">Más detalles</span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/metalicos/d7e92efcbe4f5a0ec5e84b83d68fdf5c.jpg" alt="">
-                    </div>
-                    <div class="text-center mt-2">
-
-                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1695">
-                            <h3 class="strong precio_3">$5199</h3>
-                            <span class="">Más detalles</span>
-                        </a>
-
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/ssss.png" alt="">
-                    </div>
-                    <div class="text-center mt-2">
-                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1778&q2=1">
-                            <h3 class="strong precio_3">$4099</h3>
-                            <span class="">Más detalles</span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/metalicos/circular.jpg" alt="">
-                    </div>
-                    <div class="text-center mt-2">
-                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1778&q2=1">
-                            <h3 class="strong precio_3">$4399</h3>
-                            <span class="">Más detalles</span>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/metalicos/circular_1.jpg" alt="">
-                    </div>
-                    <div class="text-center mt-2">
-                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1697">
-                            <h3 class="strong precio_3">$5199</h3>
-                            <span class="">Más detalles</span>
-                        </a>
-
-                    </div>
-                </div>
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/metalicos/circular_2.jpg" alt="">
-                    </div>
-                    <div class="text-center mt-2">
-                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1698">
-                            <h3 class="strong precio_3">$4399</h3>
-                            <span class="">Más detalles</span>
-                        </a>
-                    </div>
-                </div>
-
-
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/metalicos/circular_3.jpg" alt="">
-                    </div>
-                    <div class="text-center mt-2">
-                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1699&q2=1">
-                            <h3 class="strong precio_3">$4099</h3>
-                            <span class="">Más detalles</span>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/metalicos/circular_4.jpg" alt="">
-                    </div>
-                    <div class="text-center mt-2">
-                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1700">
-                            <h3 class="strong precio_3">$5699</h3>
-                            <span class="">Más detalles</span>
-                        </a>
-
-                    </div>
-                </div>
-
-                <div class="col-12 col-lg-4 item features-image mt-4">
-                    <div class="card item-wrapper">
-                        <img src="imgs/metalicos/circular_5.jpg" alt="">
-                    </div>
-                    <div class="text-center mt-2">
-                        <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1700">
-                            <h3 class="strong precio_3">$3999</h3>
-                            <span class="">Más detalles</span>
-                        </a>
-                    </div>
-                </div>
-
-
-            </div>
-        </div>
-    </section>
-
-
-
-    <section data-bs-version="5.1" class="content1 cid-t3PiYeiBgz anticipa_ya_1" id="content1-g">
-        <div class="container-fluid">
-            <div class="row justify-content-center">
-                <div class="col-12 content">
-                    <a class="mbr-text mbr-fonts-style display-5 border p-2" target="_blank" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20agendar%20mi%20evento">
-                        Anticipa la fecha de tu evento ya!
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section data-bs-version="5.1" class="features7 cid-t3PhwUgKcN bg_pink" id="features7-2">
-        <div class="container">
-            <div class="features-header">
-
-                <h2 class="mbr-section-title mbr-fonts-style display-2 color_white">
-                    <strong>Anticipa la fecha de tu evento con el 10%</strong>
-                </h2>
-            </div>
-            <div class="row">
-                <div class="col-12 col-lg-6 col-md-6 card item features-image">
-                    <div class="item-wrapper">
-                        <div class="card-wrapper">
-                            <div class="">
-                                <img src="imgs/cuadradas/cuadradas_1.jpg" alt="">
-                            </div>
-                            <div class="text-center mt-3">
-                                <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1702">
-                                    <h3 class="strong precio">$3199</h3>
-                                    <span class="mas_detalles">Más detalles</span>
-                                </a>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-6 col-md-6 card item features-image">
-                    <div class="item-wrapper">
-                        <div class="card-wrapper">
-                            <div class="">
-                                <img src="imgs/cuadradas/cuadradas_2.jpg" alt="">
-                            </div>
-                            <div class="text-center mt-3">
-
-                                <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1703">
-                                    <h3 class="strong precio">$3799</h3>
-                                    <span class="mas_detalles">Más detalles</span>
-                                </a>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-6 col-md-6 card item features-image">
-                    <div class="item-wrapper">
-                        <div class="card-wrapper">
-                            <div class="">
-                                <img src="imgs/cuadradas/cuadradas_3.jpg" alt="">
-                            </div>
-                            <div class="text-center mt-3">
-                                <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1704">
-                                    <h3 class="strong precio">$2999</h3>
-                                    <span class="mas_detalles">Más detalles</span>
-                                </a>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-6 col-md-6 card item features-image">
-                    <div class="item-wrapper">
-                        <div class="card-wrapper">
-                            <div class="">
-                                <img src="imgs/cuadradas/cuadradas_4.jpg" alt="">
-                            </div>
-                            <div class="text-center mt-3">
-                                <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1705">
-                                    <h3 class="strong precio">$3999</h3>
-                                    <span class="mas_detalles">Más detalles</span>
-                                </a>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-6 col-md-6 card item features-image">
-                    <div class="item-wrapper">
-                        <div class="card-wrapper">
-                            <div class="">
-                                <img src="imgs/cuadradas/cuadradas_5.jpg" alt="">
-                            </div>
-                            <div class="text-center mt-3">
-                                <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1706">
-                                    <h3 class="strong precio">$3999</h3>
-                                    <span class="mas_detalles">Más detalles</span>
-                                </a>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-6 col-md-6 card item features-image">
-                    <div class="item-wrapper">
-                        <div class="card-wrapper">
-                            <div class="">
-                                <img src="imgs/cuadradas/cuadradas_6.jpg" alt="">
-                            </div>
-                            <div class="text-center mt-3">
-                                <a class="text-center mt-3" href="https://enidservices.com/decoraciones-tematicas-globolandia/?id=1707">
-                                    <h3 class="strong precio">$3999</h3>
-                                    <span class="mas_detalles">Más detalles</span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="mbr-section-btn">
-                <a class="btn btn-primary display-4" target="_blank" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20agendar%20mi%20evento">
-                    Checa disponibilidad!
-                </a>
-            </div>
-        </div>
-    </section>
-
-    <section data-bs-version="5.1" class="clients2 cid-t3PhAepAbm" id="clients2-5">
-        <?php require_once "preguntas_frecuentes.php"; ?>
-    </section>
 
     <section class="d-md-none" data-bs-version="5.1">
         <div class="container-fluid col-md-8 col-mf-offsset-2">
             <div class="fixed-bottom d-flex bg_blue">
                 <div class="mb-3 agenda">
-                    Agenda ya!
-                    <a class="color-black mr-3" target="_blank" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20agendar%20mi%20evento">
+                    Checa nuestro catálogo!
+                    <a class="color-black mr-3"  href="https://enidservices.com/carpas-reforzadas">
                         <span class="fa fa-whatsapp fa-2x">
                         </span>
                     </a>
@@ -666,12 +744,12 @@
 </html>
 <style>
     .bg_decoraciones {
-        background: #f01562 !important;
+        background: #040b12 !important;
 
     }
 
     .color_accion {
-        color: #01024b !important;
+        color: white !important;
     }
 
     .color-black {
@@ -682,7 +760,7 @@
     }
 
     .galeria_seccion {
-        background: #020226 !important;
+        background: #dcebfd !important;
     }
 
     .bg_blue {
@@ -700,7 +778,7 @@
     }
 
     .instalacion {
-        background: #fbbebd !important;
+        background: #00090c !important;
     }
 
     .costo {
@@ -708,7 +786,7 @@
     }
 
     .color_bbb {
-        color: #042b8c !important;
+        color: whitesmoke !important;
     }
 
     .preguntas {
@@ -716,7 +794,7 @@
     }
 
     .anticipa_ya {
-        background: #ed0a83 !important;
+        background: #17d3ad !important;
     }
 
     .anticipa_ya_1 {
@@ -767,5 +845,24 @@
 
     .mas_detalles {
         color: black;
+    }
+    .cid-t3PhNQeo5q{
+        background: #010816;
+    }
+    .color_orange{
+        color: orange!important;
+    }
+    .color_tm
+    {
+        color:#05328d!important;
+    }
+    .mas_detalles_c{
+        background: #021735!important;
+        padding: 10px;
+        color: white!important;
+
+    }
+    .fbold{
+        font-weight: bold!important;
     }
 </style>
