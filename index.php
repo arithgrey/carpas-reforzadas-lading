@@ -731,9 +731,8 @@
     <script src="assets/dropdown/js/navbar-dropdown.js"></script>
     <script src="assets/embla/embla.min.js"></script>
     <script src="assets/embla/script.js"></script>
-    <script src="assets/sociallikes/social-likes.js"></script>
-    <script src="assets/theme/js/script.js"></script>
-    <script src="assets/formoid.min.js"></script>
+    
+    
 
 
 

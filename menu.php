@@ -20,20 +20,6 @@
                 <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true">
                     
                     <li class="nav-item"><a class="nav-link link display-4" href="https://api.whatsapp.com/send?phone=+525552967027&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20cotizar%20mi%20carpa">(55) 7612- 7281 </a></li>
-                    <!--
-                    <li class="nav-item">
-                        <a class="nav-link dropdown-toggle display-4" href="#" id="tematicasDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Temáticas populares
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="tematicasDropdown">
-                            <li><a class="dropdown-item" href="barbie.php">Barbie</a></li>
-                            <li><a class="dropdown-item" href="babyshowers.php">Baby shower</a></li>
-                            <li><a class="dropdown-item" href="quinces.php">Quince Años</a></li>
-                            <li><a class="dropdown-item" href="infantiles.php">Infantiles</a></li>
-                            <li><a class="dropdown-item" href="https://enidservices.com/decoraciones-tematicas-globolandia/">Todos los modelos!</a></li>
-                        </ul>
-                    </li>
--->
                     
                     <li class="nav-item">
                         <a class="nav-link dropdown-toggle display-4" href="#" id="tematicasDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -65,13 +51,13 @@
                                 <h3 class="mbr-section-subtitle mbr-fonts-style display-5"><strong>Carpas y Estructuras Comerciales</strong></h3>
                             </div>
                             <div class="icons-menu">
-                                <a class="iconfont-wrapper" href="https://www.facebook.com/profile.php?id=100093599380757" target="_blank">
+                                <a class="iconfont-wrapper" href="" target="_blank">
                                     <span class="p-2 mbr-iconfont socicon-facebook socicon"></span>
                                     <p class="mbr-text mbr-fonts-style display-4">
                                         Facebook</p>
                                 </a>
 
-                                <a class="iconfont-wrapper" href="https://www.instagram.com/globos_globolandia_/" target="_blank">
+                                <a class="iconfont-wrapper" href="" target="_blank">
                                     <span class="p-2 mbr-iconfont socicon-instagram socicon"></span>
                                     <p class="mbr-text mbr-fonts-style display-4">
                                         Instagram</p>
