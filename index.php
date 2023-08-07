@@ -713,11 +713,9 @@
     <section class="d-md-none" data-bs-version="5.1">
         <div class="container-fluid col-md-8 col-mf-offsset-2">
             <div class="fixed-bottom d-flex bg_blue">
-                <div class="mb-3 agenda">
-                    Checa nuestro catálogo!
-                    <a class="color-black mr-3"  href="https://enidservices.com/carpas-reforzadas">
-                        <span class="fa fa-whatsapp fa-2x">
-                        </span>
+                <div class="mb-3 agenda">                    
+                    <a class="white mr-3"  href="https://enidservices.com/carpas-reforzadas">
+                        Checa los precios aquí <i class="fa fa-chevron-circle-right"></i>
                     </a>
                 </div>
             </div>
@@ -764,13 +762,14 @@
     }
 
     .bg_blue {
-        background: #e8b58a;
+        background: #0c1d40;
     }
 
     .agenda {
-        color: black !important;
-        margin-left: 210px;
+        color: white !important;
+        margin-left: 160px;
         font-weight: bold;
+        margin-top: 8px;
     }
 
     .color_white {
