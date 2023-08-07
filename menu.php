@@ -4,7 +4,10 @@
             <div class="navbar-brand d-flex d-lg-none">
                 <span class="navbar-caption-wrap"><a class="navbar-caption display-7" href="index.php">Carpas y Estructuras Comerciales</a></span>
             </div>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" 
+            type="button" data-toggle="collapse" data-bs-toggle="collapse" 
+            data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" 
+            aria-expanded="false" aria-label="Toggle navigation">
                 <div class="hamburger">
                     <span></span>
                     <span></span>
@@ -19,15 +22,15 @@
                 </div>
                 <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true">
                     
-                    <li class="nav-item"><a class="nav-link link display-4" href="https://api.whatsapp.com/send?phone=+525552967027&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20cotizar%20mi%20carpa">(55) 7612- 7281 </a></li>
+                    <li class="nav-item"><a class="nav-link link display-4" 
+                    href="https://api.whatsapp.com/send?phone=+525552967027&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20cotizar%20mi%20carpa">(55) 5296 - 7027 </a></li>
                     
                     <li class="nav-item">
                         <a class="nav-link dropdown-toggle display-4" href="#" id="tematicasDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Servicios
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="tematicasDropdown">
-                            <li><a class="dropdown-item" href="index.php#image1-h">Carpas Reforzadas</a></li>
-                            <li><a class="dropdown-item" href="index.php#image1-h">¿Necesitas una página web?</a></li>
+                            <li><a class="dropdown-item" href="index.php#image1-h">Carpas Reforzadas</a></li>                            
                             <!--<li><a class="dropdown-item" href="https://enidservices.com/kits-pesas-barras-discos-mancuernas-fit/search/?q2=0&q=kitsmasvendidos&order=2">Equipo para deportivo</a></li>-->
                             
                         </ul>
