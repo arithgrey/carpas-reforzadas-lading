@@ -55,7 +55,7 @@
                                 <h3 class="mbr-section-subtitle mbr-fonts-style display-5"><strong>Carpas y Estructuras Comerciales</strong></h3>
                             </div>
                             <div class="icons-menu">
-                                <a class="iconfont-wrapper" href="" target="_blank">
+                                <a class="iconfont-wrapper" target="_blank" href="https://www.facebook.com/profile.php?id=100095458934648" >
                                     <span class="p-2 mbr-iconfont socicon-facebook socicon"></span>
                                     <p class="mbr-text mbr-fonts-style display-4">
                                         Facebook</p>
