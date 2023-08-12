@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <meta property="og:image" content="">
+    <meta property="og:image" content="https://carpas-reforzadas.com/assets/images/background3.jpg">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
     <meta name="description" content="Venta de carpas Reforzadas a domicilio pago contra entrega en CDMX y envíos a todo México">
 
@@ -64,11 +64,6 @@
     </section>
 
     <section data-bs-version="5.1" class="image1 cid-t3Pj38lILr" id="image1-h">
-
-
-
-
-
         <div>
             <div class="row">
                 <div class="col-12 col-lg-6 col-md-12 image-wrap-1">
@@ -563,7 +558,7 @@
                     </div>
                     <div class="text-center mt-2">
 
-                        <a class="text-center mt-3" href="https://enidservices.com/carpas-reforzadas">
+                        <a class="text-center mt-3" href="c">
                             
                             <span class="mas_detalles">Más detalles</span>
                         </a>
@@ -729,8 +724,7 @@
     <script src="assets/smoothscroll/smooth-scroll.js"></script>
     <script src="assets/ytplayer/index.js"></script>
     <script src="assets/dropdown/js/navbar-dropdown.js"></script>
-    <script src="assets/embla/embla.min.js"></script>
-    <script src="assets/embla/script.js"></script>
+    
     
 
 
@@ -860,5 +854,10 @@
     }
     .fbold{
         font-weight: bold!important;
+    }
+    .color_black_strong{
+        font-weight: bold!important;
+        color: black!important;
+        text-decoration: underline;
     }
 </style>
